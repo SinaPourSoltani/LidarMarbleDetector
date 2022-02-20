@@ -11,12 +11,7 @@ Here the lidar sensor is positioned in the center of the image. The sensor has a
 
 The slopes that are used to determine if the line segments are straight lines or circular are also depicted on the image.
 
-<img src="images/img1.png" height=300px> 
-<img src="images/img2.png" height=300px>
-<img src="images/img3.png" height=300px>
-<img src="images/img4.png" height=300px>
-<img src="images/img5.png" height=300px>
-<img src="images/img6.png" height=300px>
+<img src="images/img1.png" height=300px> <img src="images/img2.png" height=300px> <img src="images/img3.png" height=300px> <img src="images/img4.png" height=300px> <img src="images/img5.png" height=300px> <img src="images/img6.png" height=300px>
 
 ## Usage
 
